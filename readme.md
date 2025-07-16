@@ -2,7 +2,7 @@
 
 Backend Developer | AI Prompt Engineering |   
 
-📍 Based in Korea
+📍 Based in Korea | yubin5744@gmail.com
 
 
 ## 🧠 About Me
