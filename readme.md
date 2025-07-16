@@ -4,14 +4,12 @@ Backend Developer | AI Prompt Engineering |
 
 📍 Based in Korea
 
----
 
 ## 🧠 About Me
 - 🧑‍💻 Currently working as a **Backend Developer Intern at an X2E service company**
 - 🔍 Interested in **automating data visualization**, **applying AI to real services**, and **migrating infrastructure to Docker-based environments**
 - 🛠 Mostly work with: `Java`, `Python`, `Spring Boot`, `MySQL`, `AWS`, `Docker`
 
----
 
 ## 🛠 Tech Stack
 
@@ -23,7 +21,6 @@ Backend Developer | AI Prompt Engineering |
 🧪 Skills:          OpenAI API | RAG | Web Crawling
 ```
 
----
 
 ## ✨ GitHub Stats
 
@@ -31,11 +28,10 @@ Backend Developer | AI Prompt Engineering |
   <img src="https://github-readme-stats.vercel.app/api?username=YUBIN-githubb&show_icons=true&theme=calm" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YUBIN-githubb&layout=compact&theme=calm" width="48%" /> 
 </p>
 
----
 
 ## 🌐 Connect with Me
 
 <p align="center"> 
   <a href="https://excessive-frame-7c0.notion.site/Picket-1fb217e465da8088b261ef3a53e5d106"><img src="https://img.shields.io/badge/Notion-black?style=flat&logo=notion&logoColor=white"/></a> 
   <a href="https://yubin-code.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF5A00?style=flat&logo=blogger&logoColor=white"/></a> 
-  <a href="mailto:yubin5744@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a> </p> ``
+  <a href="mailto:yubin5744@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a> </p> 
