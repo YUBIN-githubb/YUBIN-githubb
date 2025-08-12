@@ -1,13 +1,14 @@
 # 👋 Hello, I'm MOON YUBIN
-- 🇰🇷 Based in Korea
-- 💻 Major in Computer Engineering
-- **Backend Developer**
-- **AI Service Developer**
+- Based in Korea
+- Computer Science major with internship experience as a Backend Developer at a startup
+- Developed AI-based image verification feature using OCR and prompt engineering (improved AI request throughput by 10x through asynchronous processing)
+- Comfortable communicating in English and experienced in multicultural environments, enabling effective communication across diverse teams
+- Passionate about continuous self-development and eager to grow professionally
 
 
 ## 🧠 About Me
 - 🧑‍💻 Currently building **AI services** 
-- 🔍 Interested in **applying AI to services**, **RAG services**, **automating data visualization**
+- 🔍 Interested in **applying AI to services**, **RAG services**, **designing optimized system architecture**
 - 🛠 Mostly work with: `Java`, `Python`, `Spring Boot`, `MySQL`, `AWS`, `Docker`
 
 
