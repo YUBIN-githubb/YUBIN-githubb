@@ -1,5 +1,3 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fa15c18b-5976-4249-ac43-9a57da48d74b" />
-
 # 👋 Hello, I'm MOON YUBIN
 
 Backend Developer | AI Prompt Engineering |   
