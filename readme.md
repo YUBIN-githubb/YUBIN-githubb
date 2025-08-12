@@ -1,13 +1,13 @@
 # 👋 Hello, I'm MOON YUBIN
-
-Backend Developer | AI Prompt Engineering |   
-
-📍 Based in Korea | yubin5744@gmail.com
+- 🇰🇷 Based in Korea
+- 💻 Major in Computer Engineering
+- **Backend Developer**
+- **AI Service Developer**
 
 
 ## 🧠 About Me
-- 🧑‍💻 Currently working as a **Backend Developer Intern at an X2E service company**
-- 🔍 Interested in **automating data visualization**, **applying AI to real services**, and **migrating infrastructure to Docker-based environments**
+- 🧑‍💻 Currently building **AI services** 
+- 🔍 Interested in **applying AI to services**, **RAG services**, **automating data visualization**
 - 🛠 Mostly work with: `Java`, `Python`, `Spring Boot`, `MySQL`, `AWS`, `Docker`
 
 
@@ -15,10 +15,10 @@ Backend Developer | AI Prompt Engineering |
 
 ```bash
 💻 Languages:       Java | Python | SQL
-⚙️  Frameworks:     Spring Boot | Flask | Node.js | Langchain
-🛢 Databases:       MySQL | MongoDB | Redis
+⚙️  Frameworks:     Spring Boot | Langchain | Flask | Node.js
+🛢 Databases:        MySQL | Redis | MongoDB
 ☁️ DevOps:          AWS | Docker | GitHub Actions
-🧪 Skills:          OpenAI API | RAG | Web Crawling
+🧪 Skills:          Using AI API | RAG | Web Crawling
 ```
 
 
