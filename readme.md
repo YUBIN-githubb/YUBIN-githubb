@@ -1,4 +1,4 @@
-[!image](<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/42d65082-0a43-42f3-8d2b-77bd8f04675d" />)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fa15c18b-5976-4249-ac43-9a57da48d74b" />
 
 # 👋 Hello, I'm MOON YUBIN
 
