@@ -33,6 +33,6 @@
 ## 🌐 Connect with Me
 
 <p align="center"> 
-  <a href="https://excessive-frame-7c0.notion.site/Picket-1fb217e465da8088b261ef3a53e5d106"><img src="https://img.shields.io/badge/Notion-black?style=flat&logo=notion&logoColor=white"/></a> 
+  <a href="https://moon-yubin.notion.site/Picket-1fb217e465da8088b261ef3a53e5d106?source=copy_link"><img src="https://img.shields.io/badge/Notion-black?style=flat&logo=notion&logoColor=white"/></a> 
   <a href="https://yubin-code.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF5A00?style=flat&logo=blogger&logoColor=white"/></a> 
   <a href="mailto:yubin5744@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a> </p> 
